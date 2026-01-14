@@ -12,16 +12,16 @@ This project automates the resume screening process by:
 
 ## Features
 
-- ✅ Text preprocessing with NLTK (tokenization, lemmatization, stopword removal)
-- ✅ Feature extraction using TF-IDF vectorization
-- ✅ Clustering algorithm to group related skills and resumes
-- ✅ Intelligent scoring system (0-10) based on:
+-  Text preprocessing with NLTK (tokenization, lemmatization, stopword removal)
+-  Feature extraction using TF-IDF vectorization
+-  Clustering algorithm to group related skills and resumes
+-  Intelligent scoring system (0-10) based on:
   - Technical skills and keywords
   - Content quality and diversity
   - Category relevance
-- ✅ Support for 25+ job categories
-- ✅ Model persistence (save/load trained models)
-- ✅ **Web Application** - Beautiful browser interface to upload and score resumes
+-  Support for 25+ job categories
+-  Model persistence (save/load trained models)
+-  **Web Application** - Beautiful browser interface to upload and score resumes
 
 ## Installation
 
@@ -54,7 +54,7 @@ The dataset includes resumes for categories like:
 
 ## Usage
 
-### 🌐 Web Application (Recommended)
+###  Web Application (Recommended)
 
 **Start the web application for an easy-to-use browser interface:**
 
@@ -80,11 +80,11 @@ The dataset includes resumes for categories like:
    - View your score and detailed breakdown!
 
 **Features:**
-- 📤 Upload resume files (TXT, PDF, DOC, DOCX)
-- 📝 Paste resume text directly
-- 📊 Beautiful score visualization
-- 🔍 Detected skills display
-- 📈 Detailed score breakdown (Skill, Quality, Relevance)
+-  Upload resume files (TXT, PDF, DOC, DOCX)
+-  Paste resume text directly
+-  Beautiful score visualization
+-  Detected skills display
+-  Detailed score breakdown (Skill, Quality, Relevance)
 
 ### Command Line Usage
 
@@ -266,6 +266,5 @@ This project is for educational purposes.
 
 Built as a beginner-friendly AI/ML project for learning Natural Language Processing and Machine Learning techniques.
 
----
 
-**Note**: This is a learning project. For production use, consider additional validation, error handling, and model tuning.
+
